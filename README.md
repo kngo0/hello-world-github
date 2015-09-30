@@ -1,2 +1,3 @@
 # hello-world-github
-Mon premier dépôt
+
+Ceci est mon premier dépôt GitHub.
